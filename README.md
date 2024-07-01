@@ -8,6 +8,8 @@ The Magnetometer Calibration App is designed to help users calibrate their magne
 - Output of calibrated magnetometer data
 - Visualization of raw and calibrated data.
 
+<kbd>![Explore Photos](https://raw.githubusercontent.com/levietduc0712/CalibMag/main/Picture.png?token=GHSAT0AAAAAACUI7MQLW7P67OQLZLDINMYQZUCGC2A)</kbd>
+
 ## Usage
 1. **Prepare your data file:**
     - The input file must be a plain text file with the extension `.txt`.
@@ -30,6 +32,6 @@ The Magnetometer Calibration App is designed to help users calibrate their magne
 ## Output
 - The app will output the calibrated magnetometer data and display visualizations comparing raw and calibrated data.
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 license. See the [LICENSE](LICENSE) file for details.
 ## Contact
 For any questions or support, please contact [levietduc0712@gmail.com](mailto:levietduc0712@gmail.com).
